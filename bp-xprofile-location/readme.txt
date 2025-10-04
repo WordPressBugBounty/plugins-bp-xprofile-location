@@ -6,7 +6,7 @@ Author: PhiloPress
 Author URI: https://philopress.com/
 Plugin URI: https://www.philopress.com/products/bp-xprofile-location/
 Requires at least: 4.0
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: 4.9
 License: GPLv2 or later
 This plugin works with both BuddyPress and the BuddyBoss Platform. It creates an xProfile Location field type that will use the Google Places API to populate and validate address fields on member profiles.
